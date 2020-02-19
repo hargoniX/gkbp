@@ -1,0 +1,8 @@
+[
+    {
+        "layer_key": "Alt",
+        "bindings": {
+            "l": "test\ntest"
+        }
+    }
+]
