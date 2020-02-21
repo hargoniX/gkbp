@@ -32,4 +32,4 @@ class Bindings:
         for layer in self.layers:
             layer.draw(kbformat, self.name)
 
-Bindings("test", "test.json").draw_all("60")
+Bindings("test", "template.json").draw_all("60")
